@@ -38,6 +38,3 @@ Enter your email text and choose a tone (e.g., professional, casual, friendly).
 - `email_ai.py` - Core email rewriting logic
 - `prompts.py` - Prompt templates
 - `config.py` - Configuration (not tracked in git)
-
-## Note
-Never commit your `.env` file or `config.py` with real API keys!
